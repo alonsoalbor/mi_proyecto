@@ -1,0 +1,8 @@
+/writable/*
+!/writable/index.html
+/logs/*
+/cache/*
+/vendor/
+.env
+.DS_Store
+Thumbs.db
