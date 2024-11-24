@@ -1,6 +1,6 @@
 <?php
 
-echo "Nueva vista";
+echo "Nueva vista modificada";
 
 
 
